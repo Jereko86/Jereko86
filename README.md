@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jereko86
-- 👀 I’m interested in game development, escpecially level design
+- 👀 I’m interested in game development, especially level design
 - 🌱 I’m currently learning coding with C#
 
 
